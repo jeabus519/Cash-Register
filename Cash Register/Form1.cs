@@ -15,6 +15,7 @@ namespace Cash_Register
         public Form1()
         {
             InitializeComponent();
+            //memes
         }
     }
 }
